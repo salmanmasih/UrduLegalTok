@@ -32,9 +32,6 @@ The project is being developed as part of a structured learning journey in langu
 | `results` | Generated experiment results |
 | `figures` | Generated plots and visualisations |
 
-## Current Status
-
-The repository structure has been created. Implementation will proceed module by module, beginning with tokenizer foundations.
 
 ## Scope
 
